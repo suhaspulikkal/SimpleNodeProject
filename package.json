@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "superheroes": "^3.0.0"
+  },
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "My Project!",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sparky Pulikkal",
+  "license": "ISC"
+}
